@@ -12,6 +12,6 @@ https://epg.112114.xyz/douyu/452628
 #EXTINF:-1 group-title="douyu",错觉老中医
 https://116-153-63-186.bytefcdnrd.com/third/stream-113218557540827819.flv?302_type=cold_aggr&_session_id=3925462125.n.cn-7sxvna.xqff_21604&abr_pts=-800&align_delay=0&cb_retry=0&domain=pull-hs-f5.flive.douyincdn.com&expire=1687707269&fp_user_url=https%3A%2F%2Fpull-hs-f5.flive.douyincdn.com%2Fthird%2Fstream-113218557540827819.flv%3Fexpire%3D1687707269%26sign%3D2e7d5bc3e06efadc53a2e234257f32e2%26volcSecret%3D2e7d5bc3e06efadc53a2e234257f32e2%26volcTime%3D1687707269%26abr_pts%3D-800%26session_id%3D037-20230618233429AB5D0F0D61D69974BB53&manage_ip=&node_id=&pro_type=http2&redirect_from=pod.cn-7sxvna.xqff.nss&session_id=037-20230618233429AB5D0F0D61D69974BB53&sign=2e7d5bc3e06efadc53a2e234257f32e2&vhost=push-rtmp-hs-f5.douyincdn.com&volcSecret=2e7d5bc3e06efadc53a2e234257f32e2&volcTime=1687707269
 #EXTINF:-1 group-title="douyu",魔兽3彩色
-http://pull-l3.douyincdn.com/third/stream-689754536396980703_hd.m3u8?auth_key=1688817863-0-0-3128f33702aee76e992bb4b3b7ed213b
+http://pull-l3.douyincdn.com/third/stream-689754536396980703_or4.m3u8?auth_key=1688819714-0-0-a8cf3a4b325e636e18616c7955d2ab01
 #EXTINF:-1 group-title="douyu",qingxuan
 http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-689754621624189706_hd/index.m3u8
